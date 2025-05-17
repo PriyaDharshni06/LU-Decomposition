@@ -49,10 +49,10 @@ print(x)
 
 ```
 ## Output:
-![Screenshot 2025-04-26 092103](https://github.com/user-attachments/assets/1309824d-7539-4434-9ab9-72cab445f19a)
+![Screenshot 2025-05-17 153034](https://github.com/user-attachments/assets/61f42318-1a40-4b4e-bf94-e0c9ee2fc362)
 
+![Screenshot 2025-05-17 153049](https://github.com/user-attachments/assets/d7784cc7-8e27-49ee-b827-f1683f2aa62f)
 
-![Screenshot 2025-04-26 092122](https://github.com/user-attachments/assets/fa306b00-4a17-4696-9fae-2a5610316c80)
 
 
 ## Result:
