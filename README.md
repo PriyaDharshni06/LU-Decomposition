@@ -19,12 +19,17 @@ variable as 'X' include the package in that variable.
 5. End the program
 ## (ii):
 1.Start
+
 2.Input the matrix A and vector b
+
 3.Use LU Decomposition to factor the matrix A into L (lower triangular) and U (upper triangular)
 → Use lu_factor(A)
+
 4.Solve the equation Ax = b using the LU factors
 → Use lu_solve((lu, piv), b)
+
 5.Print the solution vector x
+
 6.End
 
 
