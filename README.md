@@ -8,6 +8,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+## (i):
 1. Import the numpy module and lu module from scipy.linalg to use the built-in
 functions for calculation
 2. Prepare the lists from each linear equations and assign in np.array()
@@ -16,6 +17,16 @@ matrix.
 4. Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the
 variable as 'X' include the package in that variable.
 5. End the program
+## (ii):
+1.Start
+2.Input the matrix A and vector b
+3.Use LU Decomposition to factor the matrix A into L (lower triangular) and U (upper triangular)
+→ Use lu_factor(A)
+4.Solve the equation Ax = b using the LU factors
+→ Use lu_solve((lu, piv), b)
+5.Print the solution vector x
+6.End
+
 
 ## Program:
 ```PYTHON
